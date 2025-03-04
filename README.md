@@ -38,7 +38,7 @@ python cracker.py --wordlist strong_wordlist.txt --password target_password
 ```
 
 ## 🖥️ GUI Screenshots
-![App Screenshot](https://via.placeholder.com/600x300?text=Password+Cracker+GUI)
+![App Screenshot](assets/image.png)
 
 ## ⚡ Future Enhancements
 - 🔹 **Dictionary Attack for Hashes (MD5, SHA256, etc.)**
