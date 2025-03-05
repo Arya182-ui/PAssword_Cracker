@@ -15,8 +15,8 @@ This project is a **Non-Hashed & Hashed Password Cracker** with a **unique and a
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Arya182-ui/Password-Cracker-GUI.git
-cd Password-Cracker-GUI
+https://github.com/Arya182-ui/PAssword_Cracker.git
+cd Password-Cracker
 ```
 
 ### 2️⃣ Install Dependencies  
